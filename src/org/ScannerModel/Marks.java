@@ -11,6 +11,13 @@ public class Marks {
 	 System.out.println("Enter a name");
 	 String next = s.next();
 	 System.out.println("name: " + next);
+<<<<<<< HEAD
+	 
+	 System.out.println("Enter your class");
+	 String next1 = s.next();
+	 System.out.println("class: " + next1);
+=======
+>>>>>>> 15bf3d38770c36e7b322b569ae9a439453730e2e
 	  
 }
 }
